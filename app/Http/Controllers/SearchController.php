@@ -8,7 +8,7 @@ use Illuminate\Foundation\Bus\DispatchesJobs;
 use Illuminate\Foundation\Validation\ValidatesRequests;
 use Illuminate\Routing\Controller as BaseController;
 
-class HomeController extends Controller
+class SearchController extends Controller
 {
 
     use AuthorizesRequests, DispatchesJobs, ValidatesRequests;
@@ -16,19 +16,14 @@ class HomeController extends Controller
 
 
 
-    public function index()
+    public function resultsPage()
     {
 
-        return view('home');
+        return view('results');
 
     }
 
 
 
-    public function readMore()
-    {
 
-        return view('readMore');
-
-    }
 }

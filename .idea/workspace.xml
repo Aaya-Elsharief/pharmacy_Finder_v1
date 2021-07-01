@@ -4,7 +4,46 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72c7c87a-0db5-44c3-876e-e2acaabda5ab" name="Default Changelist" comment="" />
+    <list default="true" id="72c7c87a-0db5-44c3-876e-e2acaabda5ab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/PharmacyController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/SearchController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/Home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/pharmacy.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/readMore.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/results.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/AboutController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/AboutController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/css/About.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/About.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/css/Blog-Template.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/Blog-Template.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/css/Contact.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/Contact.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/css/Home.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/css/Pharmacy.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/Pharmacy.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/css/Post-Template.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/Post-Template.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/css/ReadMore.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/ReadMore.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/css/Result.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/Result.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/css/nicepage.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/nicepage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/images/1.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/1.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/images/2.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/2.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/images/3.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/3.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/images/4.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/4.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/images/93e57f45e63c40c6b7cb4809727639bbdbc513b0d0b5f9dc777981e774e22a18efbf6595559ccfbd56caf11a9a1e74e18d583fab8439c9397a6942_1280.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/93e57f45e63c40c6b7cb4809727639bbdbc513b0d0b5f9dc777981e774e22a18efbf6595559ccfbd56caf11a9a1e74e18d583fab8439c9397a6942_1280.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/images/b22f760d51fc5f7647b1257eec23c1178d1f9728b593a40ba27d749af67d0c41810629286dcdc29f5cf95b5ed363c1f840908c4c6bbb72c33bacb4_1280.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/b22f760d51fc5f7647b1257eec23c1178d1f9728b593a40ba27d749af67d0c41810629286dcdc29f5cf95b5ed363c1f840908c4c6bbb72c33bacb4_1280.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/images/bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/images/logo.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/logo.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/nicepage.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/nicepage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/about.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/about.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/contact.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/contact.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +52,9 @@
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -125,6 +167,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1rv5Us18JZ6qYQdTf2MzrO9zoRY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -133,21 +176,22 @@
     <property name="DatabaseDriversLRU" value="sqlite" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/Http/Controllers" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\wamp64\www\starter\resources\views" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\starter\public" />
       <recent name="C:\wamp64\www\starter\app\Http\Controllers" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\starter\app\Http\Controllers" />
+      <recent name="C:\wamp64\www\starter\resources\views" />
+      <recent name="C:\wamp64\www\starter\resources\css" />
       <recent name="C:\wamp64\www\starter\resources\js" />
       <recent name="C:\wamp64\www\starter\resources\views\layouts" />
-      <recent name="C:\wamp64\www\starter\resources\css" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\wamp64\www\starter\app\Http\Controllers" />
     </key>
   </component>
   <component name="RunManager" selected="PHPUnit.ExampleTest">
@@ -198,6 +242,8 @@
       <workItem from="1622645397744" duration="10602000" />
       <workItem from="1622680759416" duration="12871000" />
       <workItem from="1623230553021" duration="7560000" />
+      <workItem from="1623261847582" duration="652000" />
+      <workItem from="1624712407690" duration="14776000" />
     </task>
     <servers />
   </component>
@@ -221,17 +267,28 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="119" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1622679790808" />
-    <state x="92" y="119" key="FileChooserDialogImpl" timestamp="1622675618365">
+    <state x="92" y="119" key="FileChooserDialogImpl" timestamp="1624743317180">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="92" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1622675618365" />
+    <state x="92" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1624743317180" />
     <state x="-283" y="20" width="998" height="708" key="SettingsEditor" timestamp="1622274857751">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="-283" y="20" width="998" height="708" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1622274857751" />
-    <state x="52" y="44" width="672" height="678" key="search.everywhere.popup" timestamp="1622274872951">
+    <state x="52" y="44" width="672" height="678" key="search.everywhere.popup" timestamp="1624752475717">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="52" y="44" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1622274872951" />
+    <state x="52" y="44" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1624752475717" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/resources/views/readMore.blade.php</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
