@@ -13,28 +13,30 @@ use Illuminate\Support\Facades\Route;
 |
 */
 Route::get('/', 'HomeController@index');
+
 Route::get('/home', function () {
 
     return redirect('/');
 
 });
 
+Route::get('/index', function () {
+
+    return redirect('/');
+
+});
+
+Route::get('/readmore', 'HomeController@readMore');
+
+
 
 Route::get('/about', 'AboutController@aboutPage');
+Route::get('/contact', 'AboutController@contactPage');
+
+Route::get('/pharmacy', 'PharmacyController@pharmacyPage');
 
 
-Route::get('/test1', function () {
-    return "Welcome World ♥";
-});
- //route parametars
-
-Route::get('/test2/{id}', function ($id) {
-    return ( $id);
-});
-
-Route::get('/test2/{id}', function ($id) {
-    return ( $id);
-}) -> name('a');
+Route::get('/results', 'SearchController@resultsPage');
 
 
 

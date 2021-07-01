@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72c7c87a-0db5-44c3-876e-e2acaabda5ab" name="Default Changelist" comment="" />
+    <list default="true" id="72c7c87a-0db5-44c3-876e-e2acaabda5ab" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +15,9 @@
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -125,6 +130,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1rv5Us18JZ6qYQdTf2MzrO9zoRY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -139,15 +145,16 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\wamp64\www\starter\resources\views" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\starter\public" />
       <recent name="C:\wamp64\www\starter\app\Http\Controllers" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\starter\app\Http\Controllers" />
+      <recent name="C:\wamp64\www\starter\resources\views" />
+      <recent name="C:\wamp64\www\starter\resources\css" />
       <recent name="C:\wamp64\www\starter\resources\js" />
       <recent name="C:\wamp64\www\starter\resources\views\layouts" />
-      <recent name="C:\wamp64\www\starter\resources\css" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\wamp64\www\starter\app\Http\Controllers" />
     </key>
   </component>
   <component name="RunManager" selected="PHPUnit.ExampleTest">
@@ -198,6 +205,9 @@
       <workItem from="1622645397744" duration="10602000" />
       <workItem from="1622680759416" duration="12871000" />
       <workItem from="1623230553021" duration="7560000" />
+      <workItem from="1623261847582" duration="652000" />
+      <workItem from="1624712407690" duration="14776000" />
+      <workItem from="1625170731456" duration="894000" />
     </task>
     <servers />
   </component>
@@ -221,17 +231,28 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="119" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1622679790808" />
-    <state x="92" y="119" key="FileChooserDialogImpl" timestamp="1622675618365">
+    <state x="92" y="119" key="FileChooserDialogImpl" timestamp="1624743317180">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="92" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1622675618365" />
+    <state x="92" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1624743317180" />
     <state x="-283" y="20" width="998" height="708" key="SettingsEditor" timestamp="1622274857751">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="-283" y="20" width="998" height="708" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1622274857751" />
-    <state x="52" y="44" width="672" height="678" key="search.everywhere.popup" timestamp="1622274872951">
+    <state x="52" y="44" width="672" height="678" key="search.everywhere.popup" timestamp="1624752475717">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="52" y="44" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1622274872951" />
+    <state x="52" y="44" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1624752475717" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/resources/views/readMore.blade.php</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
