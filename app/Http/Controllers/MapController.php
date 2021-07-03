@@ -8,7 +8,7 @@ use Illuminate\Foundation\Bus\DispatchesJobs;
 use Illuminate\Foundation\Validation\ValidatesRequests;
 use Illuminate\Routing\Controller as BaseController;
 
-class AboutController extends Controller
+class MapController extends Controller
 {
 
     use AuthorizesRequests, DispatchesJobs, ValidatesRequests;
@@ -16,20 +16,14 @@ class AboutController extends Controller
 
 
 
-    public function aboutPage()
+    public function mapPage()
     {
 
-        return view('about');
+        return view('map');
 
     }
 
 
 
 
-    public function contactPage()
-    {
-
-        return view('contact');
-
-    }
 }

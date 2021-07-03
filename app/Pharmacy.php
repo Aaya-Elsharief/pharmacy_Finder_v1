@@ -16,7 +16,11 @@ class Pharmacy extends Model
 
     public function offer()
     {
-        return $this->hasOne(Offer::class, 'pharmacy_id');
+        return $this->hasMany(Offer::class, 'pharmacy_id');
+    }
+    public function user(){
+
+        return $this->belongsTo(User::class,"pharmacist_id");
     }
 
 }
