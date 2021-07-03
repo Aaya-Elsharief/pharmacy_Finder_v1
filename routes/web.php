@@ -1,6 +1,5 @@
 <?php
 
-use Illuminate\Support\Facades\Route;
 
 /*
 |--------------------------------------------------------------------------
@@ -12,6 +11,14 @@ use Illuminate\Support\Facades\Route;
 | contains the "web" middleware group. Now create something great!
 |
 */
+
+
+use App\Http\Controllers\SearchController;
+
+
+
+
+
 Route::get('/', 'HomeController@index');
 
 Route::get('/home', function () {
@@ -32,11 +39,16 @@ Route::get('/readmore', 'HomeController@readMore');
 
 Route::get('/about', 'AboutController@aboutPage');
 Route::get('/contact', 'AboutController@contactPage');
-
+Route::get('/map', 'MapController@mapPage');
 Route::get('/pharmacy', 'PharmacyController@pharmacyPage');
+Route::get('/pharmacy/{id}', 'PharmacyController@view');
+
 
 
 Route::get('/results', 'SearchController@resultsPage');
+
+
+Route::get('/search', [SearchController::class, 'search'])-> name ('web.search');
 
 
 
